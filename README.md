@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oleksii Malitskyi — Fullstack Developer
 
-<!--
-**Oleksii2025/Oleksii2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with 8+ years of experience building web applications,
+backend systems and API-driven platforms.
 
-Here are some ideas to get you started:
+### Backend
+PHP · Symfony · Laravel · Laminas · Java · Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+Vue.js · React · TypeScript
+
+### Data & Search
+SQL · Redis · Elasticsearch
+
+### DevOps & Tools
+Docker · AWS · Git
+
+### Testing
+PHPUnit · Cypress
+
+### About
+- Backend and API development
+- Scalable web applications
+- Database design and optimization
+- REST APIs and integrations
+- Performance optimization
+- Clean and maintainable code
